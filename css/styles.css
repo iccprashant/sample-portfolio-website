@@ -129,3 +129,26 @@
 }
 /* End Buttons */
 /* End Banner Area */
+
+/* Start About Area */
+
+.site-main .about-area{
+    padding: 7rem 5rem;
+}
+
+.site-main .about-area .about-title h2 > span{
+    display: block;
+    font: normal bold 49px/60px var(--roboto);
+    letter-spacing: 21px;
+}
+
+.site-main .about-area .about-title .paragraph > p{
+    padding: 1rem 0;
+}
+
+p.para{
+    color: var(--text-color);
+    font: normal 500 16px/25px var(--roboto);
+}
+
+/* Start About Area */
